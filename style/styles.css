@@ -1,0 +1,23 @@
+body{
+  color: blue;
+  background-color: cyan;
+  font-size: 13pt;
+  
+}
+
+H1{
+    color: rgb(8, 26, 107);
+    font-weight: 300;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: rgb(184, 170, 245);
+}
+
+h3{ 
+   font-family: Arial, Helvetica, sans-serif;
+   size: 15pt;
+}
+
+#article{
+    background-color: rgb(161, 167, 252);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
